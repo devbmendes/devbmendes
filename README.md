@@ -6,7 +6,7 @@
 
 ### Technologies
 #### Front End
-<div style="display:inline_block"><br>
+<div style="display:inline_block">
 <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
@@ -17,7 +17,7 @@
 <br>
 
 #### Back End
-<div style="display:inline_block"><br>
+<div style="display:inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 
 </div>
