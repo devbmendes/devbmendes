@@ -6,7 +6,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=devbmendes&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbmendes&show_icons=true&theme=radical" />
 </div>
-<h3> Technologies </h3>
+<h3> Technologies Used </h3>
 <h4> Front End  </h4> 
 <div style="display:inline_block">
 <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
