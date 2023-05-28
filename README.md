@@ -3,8 +3,8 @@
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balduino-mendes-8728001a5)
 
 <div>
- <img src="https://github-readme-stats.vercel.app/api?username=devbmendes&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbmendes&show_icons=true&theme=radical" />
+ <img src="https://github-readme-stats.vercel.app/api?username=devbmendes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbmendes&show_icons=true&theme=transparent" />
 </div>
 <h3> Technologies Used </h3>
 <h4> Front End  </h4> 
