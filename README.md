@@ -6,6 +6,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=devbmendes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbmendes&show_icons=true&theme=transparent" />
 </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devbmendes&bg_color=162332&color=4c8a9e&line=ffffff&point=162ac0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
 <h3> Technologies Used </h3>
 <h4> Front End  </h4> 
 <div style="display:inline_block">
