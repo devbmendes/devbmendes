@@ -1,6 +1,6 @@
 ### Hi, I am Balduino Mendes ✋
 #### Graduate in Computer Engineering
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balduino-mendes-8728001a5)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devbmendes)
 
 <div>
  <img height="220px" src="https://github-readme-stats.vercel.app/api?username=devbmendes&show_icons=true&theme=transparent&count_private=true" />
