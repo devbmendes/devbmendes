@@ -3,7 +3,7 @@
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balduino-mendes-8728001a5)
 
 <div>
- <img height="220px" src="https://github-readme-stats.vercel.app/api?username=devbmendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+ <img height="220px" src="https://github-readme-stats.vercel.app/api?username=devbmendes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
  <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbmendes&show_icons=true&theme=transparent" />
 </div>
 <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=devbmendes&bg_color=162332&color=4c8a9e&line=ffffff&point=162ac0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
