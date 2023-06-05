@@ -3,8 +3,8 @@
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devbmendes)
 
 <div>
- <img height="220px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devbmendes&show_icons=true&theme=tokyonight&count_private=true" />
- <img height="220px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devbmendes&show_icons=true&theme=tokyonight" />
+ <img height="220px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devbmendes&show_icons=true&theme=radical&count_private=true" />
+ <img height="220px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devbmendes&show_icons=true&theme=radical" />
 </div>
 <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=devbmendes&bg_color=162332&color=4c8a9e&line=ffffff&point=162ac0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
 <h3> Technologies Used </h3>
